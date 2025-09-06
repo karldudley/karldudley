@@ -60,3 +60,5 @@ I'm a passionate full-stack developer with expertise in modern web technologies,
 ---
 
 ⚡ Fun fact: I love turning complex problems into simple, beautiful solutions!
+
+<!-- Updated to refresh profile -->
